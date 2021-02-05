@@ -2,7 +2,7 @@
 <html lang="fi">
     <head>
         <meta charset="utf-8">
-        <title>Laskin</title> 
+        <title>Kotitehtava 10</title> 
     </head>
 <body>
 
