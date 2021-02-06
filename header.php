@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Kotitehtava 10</title> 
 </head>
-<body style="background-color: #DDD9CF;">
+<body>
 
 <?php
     echo "Tämä on header."
